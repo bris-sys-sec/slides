@@ -4,3 +4,4 @@
 - [2019-10-11](./2019-10-11.pdf) Canary, Guard Page, Bound Checking, Fat addresses and Worms. check associated reading material [here](https://github.com/bris-sys-sec/reading/tree/master/lecture3-buffer-overflow) and [there](https://github.com/bris-sys-sec/reading/tree/master/lecture4-worms)
 - [2019-10-15](./2019-10-15.pdf) Concurrency-related vulnerabilities, examples (access system call, how not to implement access control and dirty cow). [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture5-concurrency)
 - [2019-10-18](./2019-10-18.pdf) Browser security, same origin policy, XSS, DNS exploit, (not) private browsing. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture6-browser)
+- [2019-10-22](./2019-10-22.pdf) Client side timing attacks. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture7-timing-attack)
