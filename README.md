@@ -5,3 +5,4 @@
 - [2019-10-15](./2019-10-15.pdf) Concurrency-related vulnerabilities, examples (access system call, how not to implement access control and dirty cow). [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture5-concurrency)
 - [2019-10-18](./2019-10-18.pdf) Browser security, same origin policy, XSS, DNS exploit, (not) private browsing. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture6-browser)
 - [2019-10-22](./2019-10-22.pdf) Client side timing attacks. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture7-timing-attack)
+- [2019-10-25](./2019-10-25.pdf) Public Key Infrastructure, Certificates. [RFC](https://tools.ietf.org/html/rfc5280)
