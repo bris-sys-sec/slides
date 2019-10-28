@@ -6,4 +6,4 @@
 - [2019-10-18](./2019-10-18.pdf) Browser security, same origin policy, XSS, DNS exploit, (not) private browsing. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture6-browser)
 - [2019-10-22](./2019-10-22.pdf) Client side timing attacks. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture7-timing-attack)
 - [2019-10-25](./2019-10-25.pdf) Public Key Infrastructure, Certificates. [RFC 5280](https://tools.ietf.org/html/rfc5280), [RFC 8446](https://tools.ietf.org/html/rfc8446)
-- [2019-10-29](./2019-10-29.pdf) Anonymous communication, anonymity, unlikability, unobservability, VPN, TOR. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture9-anonimity)
+- [2019-10-29](./2019-10-29.pdf) Anonymous communication, anonymity, unlikability, unobservability, VPN, TOR. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture9-anonimity), also you may want to check [RFC 8484](https://tools.ietf.org/html/rfc8484).
