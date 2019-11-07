@@ -9,3 +9,4 @@
 - [2019-10-29](./2019-10-29.pdf) Anonymous communication, anonymity, unlikability, unobservability, VPN, TOR. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture9-anonimity), also have a look at this [RFC 8484](https://tools.ietf.org/html/rfc8484).
 - [2019-11-01](./2019-11-01.pdf) OSI Model, TCP stack, Type of Network attack, DNS poisoning, Slow Loris attack. [RFC 1180](https://tools.ietf.org/html/rfc1180)
 - [2019-11-05](./2019-11-05.pdf) Firewalls, DMZ, Linux IP table. [RFC 4948](https://tools.ietf.org/html/rfc4948)
+- [2019-11-08](./2019-11-08.pdf) Authentication, Password and its alternatives, 2FA. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture11-authentication)
