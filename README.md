@@ -1,3 +1,5 @@
+# Lecture Slides
+
 - [Lecture 1 2019-10-01](./2019-10-01.pdf) Introduction, Systems and e-mail recovery.
 - [Lecture 2 2019-10-04](./2019-10-04.pdf) Safety VS Security, Security Terminology, Introduction to Spectre/Meltdown. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture2-specter-meltdown)
 - [Lecture 3 2019-10-08](./2019-10-08.pdf) Buffer overflow, refresher on assembly, refresher on stack and some countermeasures. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture3-buffer-overflow)
@@ -13,3 +15,20 @@
 - [Lecture 13 2019-11-15](./2019-11-15.pdf) Access Control, RBAC, Bell Lapadula, Biba, Chinese Wall, Clark-Wilson Model [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture12-access-control)
 - [(Guest) Lecture 14 and 15 2019-11-26](./2019-11-26.pdf) Fuzzing, Concurrency vulnerabilities [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture14-fuzzing)
 - [Lecture 16 2019-12-06](./2019-12-06.pdf) Blockchain, Proof of Work, Transaction, Distributed Ledger [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture16-blockchain)
+
+# Exam and what to expect
+
+The exam is divided into three parts:
+- **Question 1** (30pt): 5 simple knowledge questions (e.g. What is proof of work and how can it be used?)
+- **Question 2** (30pt): 2 problem. One covering material seen during the lectures, one covering material seen in Coursework 1.
+- **Question 3** (40pt): **one** essay-style question to chose among three. One is based on material seen during courseworks, the two others on material seen only during lectures.
+
+The goal of the exam is not to trick you. The questions are relatively simple and fair.
+You won't be expected to write any code, but you should be able to explain to a technical audience how things work.
+
+In addition, I strongly recommend you read (at least) the additional material associated with the following lectures:
+- Lecture 3;
+- Lecture 4;
+- Lecture 12;
+- Lecture 16;
+- Lecture 17.
