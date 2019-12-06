@@ -12,4 +12,4 @@
 - [Lecture 12 2019-11-08](./2019-11-08.pdf) Authentication, Password and its alternatives, 2FA. [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture11-authentication)
 - [Lecture 13 2019-11-15](./2019-11-15.pdf) Access Control, RBAC, Bell Lapadula, Biba, Chinese Wall, Clark-Wilson Model [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture12-access-control)
 - [(Guest) Lecture 14 and 15 2019-11-26](./2019-11-26.pdf) Fuzzing, Concurrency vulnerabilities [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture14-fuzzing)
-- [Lecture 16 2019-11-26](./2019-12-06.pdf) Blockchain, Proof of Work, Transaction, Distributed Ledger [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture16-blockchain)
+- [Lecture 16 2019-12-06](./2019-12-06.pdf) Blockchain, Proof of Work, Transaction, Distributed Ledger [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture16-blockchain)
