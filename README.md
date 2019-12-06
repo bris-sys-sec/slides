@@ -21,7 +21,7 @@
 The exam is divided into three parts:
 - **Question 1** (30pt): 5 simple knowledge questions (e.g. What is proof of work and how can it be used?)
 - **Question 2** (30pt): 2 problem. One covering material seen during the lectures, one covering material seen in Coursework 1.
-- **Question 3** (40pt): **one** essay-style question to chose among three. One is based on material seen during courseworks, the two others on material seen only during lectures.
+- **Question 3** (40pt): **ONE** essay-style question to chose among three. One is based on material seen during courseworks, the two others on material seen only during lectures.
 
 The goal of the exam is not to trick you. The questions are relatively simple and fair.
 You won't be expected to write any code, but you should be able to explain to a technical audience how things work.
