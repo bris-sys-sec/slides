@@ -15,6 +15,8 @@
 - [Lecture 13 2019-11-15](./2019-11-15.pdf) Access Control, RBAC, Bell Lapadula, Biba, Chinese Wall, Clark-Wilson Model [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture12-access-control)
 - [(Guest) Lecture 14 and 15 2019-11-26](./2019-11-26.pdf) Fuzzing, Concurrency vulnerabilities [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture14-fuzzing)
 - [Lecture 16 2019-12-06](./2019-12-06.pdf) Blockchain, Proof of Work, Transaction, Distributed Ledger [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture16-blockchain)
+- [Lecture 17 2019-12-10](./2019-12-10.pdf) Virtual Machines, Containers, Unikernels and SGX [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture17-virtualisation-and-isolation)
+- [Lecture 18 2019-12-13](./2019-12-13.pdf) Rootkit, ROP, Remote Attestation, Secure Boot and TPM [check associated reading material](https://github.com/bris-sys-sec/reading/tree/master/lecture18-rootkit-and-hardware)
 
 # Exam and what to expect
 
